@@ -1,0 +1,8 @@
+{
+  "name": "AI Content Writing Assistant",
+  "description": "An exquisite workspace to generate high-quality, human-grade marketing copy, social media captions, blog posts, essays, and email campaigns, complete with automatic topic suggestions, magnetic titles, attention-gaining hooks, and SEO strategy keywords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
